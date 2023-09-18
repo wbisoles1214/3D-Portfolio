@@ -3,9 +3,8 @@ import { Link } from 'react-router-dom';
 
 import { styles } from '../styles';
 import { navLinks } from '../constants';
-import { logo, menu, close } from '../assets';
+import { logo } from '../assets';
 
-// Filter the navLinks array to exclude "About," "Work," and "Contact"
 const filteredNavLinks = navLinks.filter(
   (nav) =>
     nav.title !== 'About' && nav.title !== 'Work' && nav.title !== 'Contact'
