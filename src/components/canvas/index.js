@@ -1,6 +1,6 @@
-import EarthCanvas from './Earth';
-import BallCanvas from './Ball';
+import { EarthCanvas, BallCanvas, ComputersCanvas } from './canvas';
+import Hero from './Hero';
+import Navbar from './Navbar';
+import CanvasLoader from './Loader';
 
-import StarsCanvas from './Stars';
-
-export { EarthCanvas, BallCanvas, StarsCanvas };
+export { Hero, Navbar, CanvasLoader, BallCanvas, ComputersCanvas };
