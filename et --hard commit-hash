@@ -1,0 +1,91 @@
+[33mcommit d12d35450d5cbff007b4f15735833f0737ecb9a5[m[33m ([m[1;36mHEAD -> [m[1;32monedee[m[33m)[m
+Merge: 9bd3586 df432ae
+Author: wbisoles1214 <wbisoles@gmail.com>
+Date:   Thu Sep 21 02:03:58 2023 +0800
+
+    Merge branch 'onedee' of https://github.com/wbisoles1214/3D-Portfolio-Practice into onedee
+
+[33mcommit 9bd3586deda866ee3ed16ce81150caf365076c93[m
+Author: wbisoles1214 <wbisoles@gmail.com>
+Date:   Thu Sep 21 01:57:18 2023 +0800
+
+    Your commit message
+
+[33mcommit df432aeca70e8145b2265f71603789a247dea7ae[m[33m ([m[1;31morigin/onedee[m[33m)[m
+Merge: d701c6f b265123
+Author: wbisoles1214 <126475938+wbisoles1214@users.noreply.github.com>
+Date:   Thu Sep 21 01:43:26 2023 +0800
+
+    Merge branch 'main' into onedee
+
+[33mcommit b26512354beb165cf7a2a83075e7e56af005e9bc[m
+Author: wbisoles1214 <126475938+wbisoles1214@users.noreply.github.com>
+Date:   Thu Sep 21 01:39:02 2023 +0800
+
+    Update index.js
+
+[33mcommit 18c35e69c98fbeb6a0c745499978417c43f00a8a[m
+Author: wbisoles1214 <126475938+wbisoles1214@users.noreply.github.com>
+Date:   Thu Sep 21 01:36:33 2023 +0800
+
+    Update index.js
+
+[33mcommit 42d223b008485c0e904e598fe65d3a64a67fc0ac[m
+Author: wbisoles1214 <126475938+wbisoles1214@users.noreply.github.com>
+Date:   Thu Sep 21 01:34:51 2023 +0800
+
+    Update tailwind.config.cjs
+
+[33mcommit e157250e4a970ace6865162cd2f7601a4575167e[m
+Author: wbisoles1214 <126475938+wbisoles1214@users.noreply.github.com>
+Date:   Wed Sep 20 20:12:56 2023 +0800
+
+    Update Hero.jsx
+
+[33mcommit d701c6f0fd88bb47b958cd58785d1728099da75e[m
+Author: wbisoles1214 <wbisoles@gmail.com>
+Date:   Wed Sep 20 16:45:34 2023 +0800
+
+    i added earth gif
+
+[33mcommit 3beb73339de04e63e2b7ec44f712b1ba28c12642[m
+Merge: 296eb63 67f5af0
+Author: wbisoles1214 <126475938+wbisoles1214@users.noreply.github.com>
+Date:   Tue Sep 19 21:29:40 2023 +0800
+
+    Merge pull request #2 from wbisoles1214/twodee
+    
+    i change the  background
+
+[33mcommit 67f5af05416345bb00993af7388935d58164f803[m[33m ([m[1;31morigin/twodee[m[33m, [m[1;32mtwodee[m[33m)[m
+Author: wbisoles1214 <wbisoles@gmail.com>
+Date:   Tue Sep 19 21:23:28 2023 +0800
+
+    i change the  background
+
+[33mcommit 296eb6370cb953600d6531aafa98eb9e079b8c03[m
+Author: wbisoles1214 <wbisoles@gmail.com>
+Date:   Mon Sep 18 21:04:56 2023 +0800
+
+    i temporary put gif bg and delted some files
+
+[33mcommit 563eff89b95ef397d36cd4427ecefc03c613440b[m
+Merge: c51465c 062c016
+Author: wbisoles1214 <126475938+wbisoles1214@users.noreply.github.com>
+Date:   Sun Sep 17 20:02:43 2023 +0800
+
+    Merge pull request #1 from wbisoles1214/onedee
+    
+    i deleted and edit some of the files
+
+[33mcommit 062c016da27f42decccff9e6e4217b26dace2abd[m
+Author: wbisoles1214 <wbisoles@gmail.com>
+Date:   Sun Sep 17 20:01:37 2023 +0800
+
+    i deleted and edit some of the files
+
+[33mcommit c51465c9f1f914af88b8f41d5622db7db51eb1da[m
+Author: wbisoles1214 <wbisoles@gmail.com>
+Date:   Wed Aug 30 13:21:29 2023 +0800
+
+    first commit
