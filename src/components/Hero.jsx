@@ -1,4 +1,3 @@
-import { motion } from 'framer-motion';
 import { BsArrowRight } from 'react-icons/bs';
 import { styles } from '../styles';
 import { ComputersCanvas } from './canvas';
@@ -29,7 +28,7 @@ const Hero = () => {
       <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
         <a href="https://wbisoles1214.github.io/">
           <div>
-            <button className="bg-gradient-to-b from-blue-500 to-blue-700 text-white font-semibold py-2 px-4 rounded-full relative overflow-hidden transform transition-transform hover:scale-105">
+            <button className="bg-blue-500 bg-opacity-50 text-white font-semibold py-2 px-4 rounded-full relative overflow-hidden transform transition-transform hover:scale-105">
               <span className="absolute top-0 left-0 w-full h-full bg-opacity-25 bg-white rounded-full transform scale-105 translate-x-2 translate-y-2"></span>
               Profile <BsArrowRight className="ml-3 text-[#f1f0f3] text-lg" />
             </button>
