@@ -14,11 +14,17 @@ const Hero = () => {
         </div>
 
         <div>
-          <h1 className={`${styles.heroHeadText} text-white-500`}>
-            Hi, I'm <span className="text-[#5eb7ff]">Webster</span>
+          <h1
+            className={`${styles.heroHeadText} text-white`}
+            style={{ textShadow: '5px 5px 10px rgba(0, 0, 0, 3)' }}
+          >
+            Hi, I'm <span className="text-[#56b8d1]">Webster</span>
           </h1>
-          <p className={`${styles.heroSubText} mt-2 text-cyan-500`}>
-            I'm a FullStack Web Developer <br className="sm:block hidden" />
+          <p
+            className={`${styles.heroSubText} mt-2 text-white`}
+            style={{ textShadow: '10px 10px 20px rgba(0, 0, 0, 9)' }}
+          >
+            I'm a FullStack Web Developer
           </p>
         </div>
       </div>
@@ -26,7 +32,7 @@ const Hero = () => {
       <ComputersCanvas />
 
       <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
-        <a href="https://wbisoles1214.github.io/">
+        <a href="https://webster-portfolio.vercel.app/">
           <div>
             <button className="bg-blue-500 bg-opacity-50 text-white font-semibold py-2 px-4 rounded-full relative overflow-hidden transform transition-transform hover:scale-105">
               <span className="absolute top-0 left-0 w-full h-full bg-opacity-25 bg-white rounded-full transform scale-105 translate-x-2 translate-y-2"></span>
