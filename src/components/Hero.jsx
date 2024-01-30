@@ -32,7 +32,7 @@ const Hero = () => {
       <ComputersCanvas />
 
       <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
-        <a href="https://webster-portfolio.vercel.app/">
+        <a href="https://wbisoles1214.vercel.app/">
           <div>
             <button className="bg-blue-500 bg-opacity-50 text-white font-semibold py-2 px-4 rounded-full relative overflow-hidden transform transition-transform hover:scale-105">
               <span className="absolute top-0 left-0 w-full h-full bg-opacity-25 bg-white rounded-full transform scale-105 translate-x-2 translate-y-2"></span>
